@@ -4,7 +4,6 @@ var fs = require('fs'),
 
 page.content = fs.read(args[1]);
 
-console.log(page.content, args[1]);
 page.viewportSize = {
 	width: 1024,
 	height: 1024

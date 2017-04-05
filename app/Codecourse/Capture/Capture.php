@@ -14,14 +14,16 @@ class Capture
 
 	protected $view;
 	protected $pdf;
+	protected $fileType;
 
 	public function __construct() 
 	{
 		$this->view = new View;
 	}
 
-	public function load($filename, array $data = [])
+	public function load($filename, array $data = [], $fileType = 'pdf')
 	{
+		$this->fileType = $fileType;
 		$view = $this->view->render($filename, $data);
 
 		$this->pdf = $this->captureImage($view);
@@ -31,14 +33,22 @@ class Capture
 	{
 		$path = $this->writeFile($view);
 
-		$this->phantomProcess($path)->setTimeout(10)->mustRun();
+		$this->phantomProcess($path)->setTimeout(100)->mustRun();
 
 		return $path;
 	}
 
 	protected function writeFile($view)
 	{
-		file_put_contents($path = 'storage/'.md5(uniqid()) . '.pdf', $view);
+
+		if($this->fileType == 'pdf') {
+
+			file_put_contents($path = 'storage/' . md5(uniqid()) . '.pdf', $view);
+
+		} else {
+
+			file_put_contents($path = 'storage/' . md5(uniqid()) . '.doc', $view);
+		}
 
 		return $path;
 	}
@@ -48,13 +58,20 @@ class Capture
 		return new Process('phantomjs capture.js ' . $path);
 	}
 
-	public function respond($filename) 
+	public function respond($filename, $fileType = 'pdf') 
 	{
+
+		$this->fileType = $fileType;
+		$contentType = 'application/msword';
+
+		if($this->fileType == 'pdf') {
+			$contentType = 'application/pdf';
+		}
 		$response = new Response(file_get_contents($this->pdf),  200, [
 			'Content-Description' => 'File Transfer',
 			'Content-Disposition' => 'attachment; filename="'. $filename .'"',
 			'Content-Transfer-Encoding' => 'binary',
-			'Content-Type' => 'application/pdf',
+			'Content-Type' => $contentType,
 		]);
 		
 		unlink($this->pdf);
