@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en"  style="font-family: Segoe UI, Helvetica, Arial, sans-serif">
 <head>
     <meta charset="UTF-8">
     <title>Senthan Software Engineer</title>
@@ -27,14 +27,14 @@
             
         </div>
         <div class="row" >
-            <div class="col-md-7">
+            <div class="col-md-8">
                 <img style="margin-right: 15px;" class="img-thumbnail pull-left" src="http://cv.lh/140x140.png" alt="">
                 <h2 style="padding: : 15px;"> 
                     <span>Senthan Shanmugaratnam</span><br>
                     <span><small>Software Engineer</small></span>
                 </h2>
             </div>
-            <div class="col-md-5">
+            <div class="col-md-4">
                 <p class="last">
                      <span class="hidden-tablet"><strong>Address: </strong> BLK 338, #03-330, BUKIT BATOK ST 34, SINGAPORE 650338.</span>
                     <br><span class="hidden-tablet"><strong>Email: </strong> <a href="mailto:senthaneng@gmail.com">senthaneng@gmail.com</a></span>
@@ -46,8 +46,181 @@
         </div>
         <hr>
         <div class="row">
-            
+            <div class="col-md-3">
+            	<h3>OBJECTIVE</h3>
+            </div>
+            <div class="col-md-9">
+            	<p>To be exposed in a challenging industrial environment where I could exploit my knowledge and skills for the
+				beneficial of the company and improve my skills and personality. I mostly rely on self-learning and best
+				practices. I would like to work with cutting edge technologies which can expand my knowledge further.
+				</p>
+            </div>
         </div>
+        <hr>
+        <div class="row">
+        	<div class="col-md-3">
+        		<h3>SUMMARY</h3>
+        	</div>
+        	<div class="col-md-9">
+        		<ul class="list-group">
+        			<li class="list-group-item-heading">
+        			BSc Honors in Computer Engineering at University of Peradeniya, Sri Lanka.
+        			</li>
+        			<li class="list-group-item-heading">
+        				Having four years of extensive experience in architecture, design and development of developing
+                        Web application and Mobile application using latest Technologies
+        			</li>
+        			<li class="list-group-item-heading">
+        				Experience in working with Model View Controller (MVC) architecture based web developments using
+                        Laravel MVC.
+        			</li>
+        			<li class="list-group-item-heading">
+        				Proficient in working with Eloquent ORM Laravel and Composer and Application Servers such as Nginx, and HTTP server in Node.js.
+        			</li>
+        			<li class="list-group-item-heading">
+        				Process Expertise in Object-Oriented Analysis/Design and Php Development, skilled at progressing from problem statement to well documented designs.
+        			</li>
+        			<li class="list-group-item-heading">
+        				Experience in Agile Development (Scrum). Good Team player and also have ability to work independently.
+        			</li>
+        			<li class="list-group-item-heading">
+        				Expert in advanced development methodologies, tools and processes contributing to the design and rollout of cutting-edge software applications, writing efficient and sophisticated code.
+        			</li>
+        		</ul>
+        	</div>
+        </div>
+         <hr>
+         <div class="row">
+        	<div class="col-md-3">
+        		<h3>TECHNICAL SKILLS</h3>
+        	</div>
+        	<div class="col-md-9">
+        		<ul class="list-group">
+        			<li>
+	        			<span class="list-group-item-heading">
+	        				PHP/Laravel Technologies: 
+	    				</span>
+        				<span class="list-group-item-text">
+        				Artisan Console, Middleware, Session, Authentication, Passport, Routing, Hashing, Broadcasting, Cache, Collections, Events, Packages, Queues, Scheduled Tasks, Pagination, Migrations, Mutators, Redis, Mail
+        			    </span>
+        			</li>
+        			<li class="">
+        				<span class="list-group-item-heading">
+        					Web Technologies:
+        				</span>
+        				<span class="list-group-item-text">
+        					communications protocols, Bootstrap, Semantic ui, HTML, CSS, JavaScript, jQuery, Ajax, XML, DOM, JSON, Angularjs, Node.js, Socket.io, Ckeditor.js. Fullcalendar.js, jquery, dropzone.js, emojione.js, Sortable.js, clipboard.js, lightgallery.js, lightbox.js, colResizable.js, Chart.js and Moment.js
+        				</span>
+        			</li>
+        			<li class="">
+        				<span class="list-group-item-heading">
+        					Web Services:
+        				</span>
+        				<span class="list-group-item-text">
+        					SOAP (WSDL) and SNMP Trap
+        				</span>
+        			</li>
+        			<li class="">
+        				<span class="list-group-item-heading">
+        					Communication protocols:
+        				</span>
+        				<span class="list-group-item-text">
+        					WebRTC, SIP, TrixBox
+        				</span>
+        			</li>
+        			<li class="">
+        				<span class="list-group-item-heading">
+        					Application Servers:
+        				</span>
+        				<span class="list-group-item-text">
+        					Apache Tomcat, Nginx
+        				</span>
+        			</li>
+        			<li class="">
+        				<span class="list-group-item-heading">
+        					Programming Languages:
+        				</span>
+        				<span class="list-group-item-text">
+        					PHP, Java, C, Perl, SQL, Bash (Shell Scripting), Matlab and R.
+        				</span>
+        			</li>
+        			<li class="">
+        				<span class="list-group-item-heading">
+        					Mobile Technologies:
+        				</span>
+        				<span class="list-group-item-text">
+        					Android, Ionic
+        				</span>
+        			</li>
+        			<li class="">
+        				<span class="list-group-item-heading">
+        					Database Technologies:
+        				</span>
+        				<span class="list-group-item-text">
+        					MySQL, Amazon Aurora and Redis
+        				</span>
+        			</li>
+        			<li class="">
+        				<span class="list-group-item-heading">
+        					Testing:
+        				</span>
+        				<span class="list-group-item-text">
+        					PHPUnit and Selenium
+        				</span>
+        			</li>
+        			<li class="">
+        				<span class="list-group-item-heading">
+        					IDE:
+        				</span>
+        				<span class="list-group-item-text">
+        					PhpStorm, Eclipse, Sublime, RStudio and Android Studio.
+        				</span>
+        			</li>
+        			<li class="">
+        				<span class="list-group-item-heading">
+        					Operating Systems:
+        				</span>
+        				<span class="list-group-item-text">
+        					Windows, Linux (Ubuntu and CentOS)
+        				</span>
+        			</li>
+        			<li class="">
+        				<span class="list-group-item-heading">
+        					Source Control:
+        				</span>
+        				<span class="list-group-item-text">
+        					Bitbucket, GIT
+        				</span>
+        			</li>
+        			<li class="">
+        				<span class="list-group-item-heading">
+        					Methodologies:
+        				</span>
+        				<span class="list-group-item-text">
+        					UML, OOP, OOAD, DDD, Functional Programming, Image Processing, Socket Programming, Parallel programming (Multithreading), Waterfall and Agile Scrum Methodology
+        				</span>
+        			</li>
+        			<li class="">
+        				<span class="list-group-item-heading">
+        					Others:
+        				</span>
+        				<span class="list-group-item-text">
+        					AWS (EC2, S3, Route53, RDS, SQS), SSH, Putty, Cacti, SoapUI, OpenCV
+        				</span>
+        			</li>
+        		</ul>
+        	</div>
+        </div>
+         <hr>
+         <div class="row">
+        	<div class="col-md-3">
+        		<h3></h3>
+        	</div>
+        	<div class="col-md-9">
+        		<p></p>
+        	</div>
+        </div>
+         <hr>
     </div>
 </body>
 </html>
