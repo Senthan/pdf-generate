@@ -52,6 +52,18 @@
 			padding-top: 30px;
 			margin-top: 30px;
 		}
+
+		.period {
+			    float: right;
+			    padding: 12px 20px;
+			    background-color: #b1b1b1;
+			    color: #fff;
+			    -webkit-transition: background-color 0.3s;
+			    -o-transition: background-color 0.3s;
+			    transition: background-color 0.3s;
+ 			   text-transform: uppercase;
+}
+		}
     </style>
 
 </head>
@@ -132,7 +144,7 @@
         		<ul class="list-group">
         			<li>
 	        			<span class="list-group-item-heading">
-	        				PHP/Laravel Technologies: 
+	        				<strong>PHP/Laravel Technologies: </strong>
 	    				</span>
         				<span class="list-group-item-text">
         				Artisan Console, Middleware, Session, Authentication, Passport, Routing, Hashing, Broadcasting, Cache, Collections, Events, Packages, Queues, Scheduled Tasks, Pagination, Migrations, Mutators, Redis, Mail
@@ -140,7 +152,7 @@
         			</li>
         			<li class="">
         				<span class="list-group-item-heading">
-        					Web Technologies:
+        					<strong>Web Technologies:</strong>
         				</span>
         				<span class="list-group-item-text">
         					communications protocols, Bootstrap, Semantic ui, HTML, CSS, JavaScript, jQuery, Ajax, XML, DOM, JSON, Angularjs, Node.js, Socket.io, Ckeditor.js. Fullcalendar.js, jquery, dropzone.js, emojione.js, Sortable.js, clipboard.js, lightgallery.js, lightbox.js, colResizable.js, Chart.js and Moment.js
@@ -148,7 +160,7 @@
         			</li>
         			<li class="">
         				<span class="list-group-item-heading">
-        					Web Services:
+        					<strong>Web Services:</strong>
         				</span>
         				<span class="list-group-item-text">
         					SOAP (WSDL) and SNMP Trap
@@ -156,7 +168,7 @@
         			</li>
         			<li class="">
         				<span class="list-group-item-heading">
-        					Communication protocols:
+        					<strong>Communication protocols:</strong>
         				</span>
         				<span class="list-group-item-text">
         					WebRTC, SIP, TrixBox
@@ -164,7 +176,7 @@
         			</li>
         			<li class="">
         				<span class="list-group-item-heading">
-        					Application Servers:
+        					<strong>Application Servers:</strong>
         				</span>
         				<span class="list-group-item-text">
         					Apache Tomcat, Nginx
@@ -172,7 +184,7 @@
         			</li>
         			<li class="">
         				<span class="list-group-item-heading">
-        					Programming Languages:
+        					<strong>Programming Languages:</strong>
         				</span>
         				<span class="list-group-item-text">
         					PHP, Java, C, Perl, SQL, Bash (Shell Scripting), Matlab and R.
@@ -180,7 +192,7 @@
         			</li>
         			<li class="">
         				<span class="list-group-item-heading">
-        					Mobile Technologies:
+        					<strong>Mobile Technologies:</strong>
         				</span>
         				<span class="list-group-item-text">
         					Android, Ionic
@@ -188,7 +200,7 @@
         			</li>
         			<li class="">
         				<span class="list-group-item-heading">
-        					Database Technologies:
+        					<strong>Database Technologies:</strong>
         				</span>
         				<span class="list-group-item-text">
         					MySQL, Amazon Aurora and Redis
@@ -196,7 +208,7 @@
         			</li>
         			<li class="">
         				<span class="list-group-item-heading">
-        					Testing:
+        					<strong>Testing:</strong>
         				</span>
         				<span class="list-group-item-text">
         					PHPUnit and Selenium
@@ -204,7 +216,7 @@
         			</li>
         			<li class="">
         				<span class="list-group-item-heading">
-        					IDE:
+        					<strong>IDE:</strong>
         				</span>
         				<span class="list-group-item-text">
         					PhpStorm, Eclipse, Sublime, RStudio and Android Studio.
@@ -212,7 +224,7 @@
         			</li>
         			<li class="">
         				<span class="list-group-item-heading">
-        					Operating Systems:
+        					<strong>Operating Systems:</strong>
         				</span>
         				<span class="list-group-item-text">
         					Windows, Linux (Ubuntu and CentOS)
@@ -220,7 +232,7 @@
         			</li>
         			<li class="">
         				<span class="list-group-item-heading">
-        					Source Control:
+        					<strong>Source Control:</strong>
         				</span>
         				<span class="list-group-item-text">
         					Bitbucket, GIT
@@ -228,7 +240,7 @@
         			</li>
         			<li class="">
         				<span class="list-group-item-heading">
-        					Methodologies:
+        					<strong>Methodologies:</strong>
         				</span>
         				<span class="list-group-item-text">
         					UML, OOP, OOAD, DDD, Functional Programming, Image Processing, Socket Programming, Parallel programming (Multithreading), Waterfall and Agile Scrum Methodology
@@ -236,7 +248,7 @@
         			</li>
         			<li class="">
         				<span class="list-group-item-heading">
-        					Others:
+        					<strong>Others:</strong>
         				</span>
         				<span class="list-group-item-text">
         					AWS (EC2, S3, Route53, RDS, SQS), SSH, Putty, Cacti, SoapUI, OpenCV
@@ -251,6 +263,7 @@
         		<h3>INDUSTRIAL EXPERIENCE</h3>
         	</div>
         	<div class="col-md-9">
+        		<p class="period">February 2015 – April 2017</p>
         		<h4>Software Engineer, jEyLaBs (Ceymplon) Pty Ltd</h4>
         		<p><strong>Responsibilities:</strong></p>
         		<ul class="list-group">
@@ -292,6 +305,7 @@
         		</ul>
 
         		<h4 class="cv-item">Deliver Daily</h4>
+
         		<p>			
 					An office administrator has the responsibility of ensuring that the administrative activities within an organization run
 					efficiently, by providing structure to other employees throughout the organization. These activities can range from being responsible for the management of human resources, budgets, leave and records, to undertaking the role of supervising other employees. These responsibilities can vary depending on the employer and level of education. Marketing campaign module is a newsletter service that allows you to send out email campaigns to a list of email subscribers and tracking email campaign and generate the report.
@@ -388,7 +402,11 @@
         			</li>
         		</ul>
         	
-        		<h4 class="cv-item-heading">Software Engineer, Adrotec Pvt Ltd</h4>
+        		<div class="cv-item-heading">
+					<p class="period">April 2014 - February 2015</p>
+        			<h4>Software Engineer, Adrotec Pvt Ltd</h4>
+        		</div>
+        		
         		<p><strong>Responsibilities:</strong></p>
         		<ul class="list-group">
         			<li class="list-group-item-heading">
@@ -469,7 +487,11 @@
         		</ul>
 
 
-        		<h4 class="cv-item-heading">Associate Software Engineer, Adrotec Pvt Ltd</h4>
+				<div class="cv-item-heading">
+					<p class="period">October 2013 - March 2014</p>
+					<h4>Associate Software Engineer, Adrotec Pvt Ltd</h4>
+				</div>
+        		
         		<p><strong>Responsibilities:</strong></p>
         		<ul class="list-group">
         			<li class="list-group-item-heading">
