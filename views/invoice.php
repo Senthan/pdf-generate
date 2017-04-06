@@ -41,6 +41,17 @@
         ul li {
         	margin-left: 15px;
         }
+
+        .cv-item {
+    		border-top: 1px solid #dadada;
+			padding-top: 30px;
+			margin-top: 30px;
+		}
+
+		.cv-item-heading {
+			padding-top: 30px;
+			margin-top: 30px;
+		}
     </style>
 
 </head>
@@ -280,7 +291,7 @@
         			</li>
         		</ul>
 
-        		<h4>Deliver Daily</h4>
+        		<h4 class="cv-item">Deliver Daily</h4>
         		<p>			
 					An office administrator has the responsibility of ensuring that the administrative activities within an organization run
 					efficiently, by providing structure to other employees throughout the organization. These activities can range from being responsible for the management of human resources, budgets, leave and records, to undertaking the role of supervising other employees. These responsibilities can vary depending on the employer and level of education. Marketing campaign module is a newsletter service that allows you to send out email campaigns to a list of email subscribers and tracking email campaign and generate the report.
@@ -303,7 +314,7 @@
         				</span>
         			</li>
         		</ul>
-        		<h4>
+        		<h4 class="cv-item">
         			Vaultpro.Business
         		</h4>
         		<p>
@@ -328,7 +339,7 @@
         				</span>
         			</li>
         		</ul>
-        		<h4>
+        		<h4 class="cv-item">
         			jEyLaBs CMS
         		</h4>
         		<p>
@@ -352,7 +363,7 @@
         				</span>
         			</li>
         		</ul>
-        		<h4>
+        		<h4 class="cv-item">
         			SkyVNO
         		</h4>
         		<p>
@@ -377,7 +388,7 @@
         			</li>
         		</ul>
         	
-        		<h4>Software Engineer, Adrotec Pvt Ltd</h4>
+        		<h4 class="cv-item-heading">Software Engineer, Adrotec Pvt Ltd</h4>
         		<p><strong>Responsibilities:</strong></p>
         		<ul class="list-group">
         			<li class="list-group-item-heading">
@@ -403,7 +414,7 @@
         			</li>
         		</ul>
 
-        		<h4>PDMS</h4>
+        		<h4 class="cv-item">PDMS</h4>
         		<p>
         			Aim of this project was to managing patients history and diagnosis on Routine Surgery, and notify the alert to doctors.
 					The Patient Data Management System (PDMS) is a comprehensive software system in which all the data of patients can
@@ -432,7 +443,7 @@
 
 
 
-        		<h4>PDMS Mobile R&D</h4>
+        		<h4 class="cv-item">PDMS Mobile R&D</h4>
         		<p>
         			PDMS Mobile is a prototype to facilitate PDMS mobile users to notified surgery status, history and able diagnosis, chat
                     with doctors and patients..Hybrid app Developed using Ionic, Cordova and Angularjs, build the application for iOS and
@@ -458,7 +469,7 @@
         		</ul>
 
 
-        		<h4>Associate Software Engineer, Adrotec Pvt Ltd</h4>
+        		<h4 class="cv-item-heading">Associate Software Engineer, Adrotec Pvt Ltd</h4>
         		<p><strong>Responsibilities:</strong></p>
         		<ul class="list-group">
         			<li class="list-group-item-heading">
@@ -472,7 +483,7 @@
         			</li>
         		</ul>
 
-        		<h4>Business to Business Directory</h4>
+        		<h4 class="cv-item">Business to Business Directory</h4>
         		<p>
         			Creating network among the companies to share information and documents effectively
         		</p>
@@ -530,7 +541,7 @@
 	        			</li>
 	        		</ul>
 
-	        		<h4>
+	        		<h4 class="cv-item">
 	         		Multithreaded Chat room – Course project
 	         	    </h4>
 	         	<p>
@@ -556,7 +567,7 @@
 	        			</li>
 	        		</ul>
 
-	        		<h4>
+	        		<h4 class="cv-item">
 	         		Taxi Dispatch Services – Course project
 	         	    </h4>
 	         	<p>
