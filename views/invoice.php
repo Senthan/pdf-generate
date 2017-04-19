@@ -252,7 +252,7 @@
 						<strong>Others:</strong>
 					</span>
 					<span class="list-group-item-text">
-						AWS (EC2, S3, Route53, RDS, SQS), SSH, Putty, Cacti, SoapUI, OpenCV
+						AWS (EC2, S3, Route53, RDS, SQS), JIRA, Supervisor, Cron, Webwin, SSH, Putty, Cacti, SoapUI, OpenCV
 					</span>
 				</li>
 			</ul>
