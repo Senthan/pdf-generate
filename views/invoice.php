@@ -122,10 +122,10 @@
 		                Laravel MVC.
 					</li>
 					<li class="list-group-item-heading">
-						Proficient in working with Eloquent ORM Laravel and Composer and Application Servers such as Nginx, and HTTP server in Node.js.
+						Proficient in working with Eloquent ORM Laravel and Composer and Application Servers such as Nginx, Apache and HTTP server in Node.js.
 					</li>
 					<li class="list-group-item-heading">
-						Process Expertise in Object-Oriented Analysis/Design and Php Development, skilled at progressing from problem statement to well documented designs.
+						Process Expertise in Object-Oriented Analysis/Design and PHP Development, skilled at progressing from problem statement to well documented designs.
 					</li>
 					<li class="list-group-item-heading">
 						Experience in Agile Development (Scrum). Good Team player and also have ability to work independently.
@@ -295,10 +295,10 @@
 						Involved R&D to develop wildcard DNS and multi-tenant database architecture
 					</li>
 					<li class="list-group-item-heading">
-						Worked in multiple cutting edge functions development. Such as search and pagination feature, dashboard real time notification functionality, dashboard update scheduler, audit functionality, workflow functionality, KPI Mmodule, event module, recruitment module, marketing campaign module, chat module, page speed module using google PageSpeed Insights API in the DD system, image management, slider management, map management, content management and form management for existing website in the CMS system and SNMP trap management, grap management using cacti, request management (reset vsat, block vsat, allotDeleteHostCatalogEntries, etc) and response management (getVsatsfromNMS, allotGetAllNeDevice, etc) using SOAP, VSAT Management and Real time VSAT status update in the skyVNO system
+						Worked in multiple cutting edge functions development. Such as search and pagination feature, dashboard real time notification functionality, dashboard update scheduler, audit functionality, workflow functionality, KPI module, event module, recruitment module, marketing campaign module, chat module, page speed module using google PageSpeed Insights API in the DD system, image management, slider management, map management, content management and form management for existing website in the CMS system and SNMP trap management, network monitoring and graphing management using cacti, request management (reset vsat, block vsat, allotDeleteHostCatalogEntries, etc) and response management (getVsatsfromNMS, allotGetAllNetworkDevice, etc) using SOAP, VSAT Management and Real time VSAT status update in the skyVNO system
 					</li>
 					<li class="list-group-item-heading">
-						Involved in workflow functionality implementation, Such as leave, expense claim and interview managements with workflow on team organization develop and R&D on symfony workflow integration on laravel
+						Involved in workflow functionality implementation. Such as leave, expense claim and interview managements with workflow on team organization develop and R&D on symfony workflow integration on laravel
 					</li>
 					<li class="list-group-item-heading">
 						Developed and Supported Deliver Daily, Vaultpro.Business, SkyVNO, jEyLaBs CMS Systems with the new features
@@ -428,9 +428,6 @@
 					<li class="list-group-item-heading">
 					Developed the video chat, message management using webrtc node.js, websocket and socket.io
 					</li>
-					<li class="list-group-item-heading">
-					Introduce Continuous Integration in software development to team and setup Jenkins server
-					</li>
 				</ul>
 
 				<h4 class="cv-item">PDMS</h4>
@@ -454,7 +451,7 @@
 							Skills Used:
 						</span>
 						<span class="list-group-item-text">
-							PHP, W e b R T C , Laravel, Redis, Bootstrap, HTML, Javascript , Ajax, Angular.js, MySQL, Node.js, and Socket.io
+							PHP, WebRTC , Laravel, Redis, Bootstrap, HTML, Javascript , Ajax, Angular.js, MySQL, Node.js, and Socket.io
 						</span>
 					</li>
 				</ul>
@@ -465,7 +462,7 @@
 				<h4 class="cv-item">PDMS Mobile R&D</h4>
 				<p>
 					PDMS Mobile is a prototype to facilitate PDMS mobile users to notified surgery status, history and able diagnosis, chat
-		            with doctors and patients..Hybrid app Developed using Ionic, Cordova and Angularjs, build the application for iOS and
+		            with doctors and patients. Hybrid app Developed using Ionic, Cordova and Angularjs, build the application for iOS and
 					Android from Hybrid Source
 				</p>
 				<ul class="list-group">
