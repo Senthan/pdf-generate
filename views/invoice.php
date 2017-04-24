@@ -156,7 +156,7 @@
 						<strong>Web Technologies:</strong>
 					</span>
 					<span class="list-group-item-text">
-						Bootstrap, Semantic ui, HTML, CSS, JavaScript, jQuery, Ajax, XML, DOM, JSON, Angularjs, Node.js, Socket.io, Ckeditor.js. Fullcalendar.js, jquery, dropzone.js, emojione.js, Sortable.js, clipboard.js, lightgallery.js, lightbox.js, colResizable.js, Chart.js and Moment.js
+						Bootstrap, Semantic UI, HTML, CSS, JavaScript, jQuery, Ajax, XML, DOM, JSON, Angularjs, Node.js, Socket.IO, Emojione, CKEditor.js, FullCalendar.js, Dropzone.js, Sortable.js, Clipboard.js, Lightgallery.js, Lightbox.js, colResizable.js, Chart.js and Moment.js
 					</span>
 				</li>
 				<li class="">
