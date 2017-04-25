@@ -252,7 +252,7 @@
 						<strong>Others:</strong>
 					</span>
 					<span class="list-group-item-text">
-						AWS (EC2, S3, Route53, RDS, SQS), JIRA, Supervisor, Cron, Webwin, SSH, Putty, Cacti, SoapUI, OpenCV
+						AWS (EC2, S3, Route 53, RDS, SQS), JIRA, Supervisor, Cron, Webwin, SSH, Putty, Cacti, SoapUI, OpenCV
 					</span>
 				</li>
 			</ul>
@@ -334,7 +334,7 @@
 				</h4>
 				<p>
 					Vaultpro.Business is a multitenant application as a service (SaaS) database application that run a cloud environment. It is
-					a prototype to facilitate DD Customers to bought DD Application and use the DD modules
+					a prototype to facilitate software delivery and license
 				</p>
 				<ul class="list-group">
 					<li>
