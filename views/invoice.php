@@ -75,9 +75,9 @@
         <div class="row" >
             <div class="col-md-8">
                <img style="margin-right: 15px;width: 150px;height: 163px;" class="img-thumbnail pull-left" src="http://senthan.dev/app/storage/140x140.png" alt="">
-                <h1 style="padding: : 15px;"> 
+                <h1 style="padding: : 15px;padding-top: 16px;"> 
                     <span>Senthan Shanmugaratnam</span><br>
-                    <span><small>Software Engineer</small></span>
+                    <!-- <span><small>Software Engineer</small></span> -->
                 </h1>
             </div>
             <div class="col-md-4">
@@ -212,7 +212,7 @@
 						<strong>Testing:</strong>
 					</span>
 					<span class="list-group-item-text">
-						PHPUnit and Selenium
+						PHPUnit, Selenium and Mocha
 					</span>
 				</li>
 				<li class="">
@@ -325,7 +325,7 @@
 							Skills Used:
 						</span>
 						<span class="list-group-item-text">
-							Laravel, Redis, Bootstrap, HTML, Javascript , Ajax, Angular.js, Amazon Aurora, Semantic UI, Node.js, PHPUnit, Selenium and Socket.io
+							PHP(Laravel), Redis, Bootstrap, HTML, Javascript , Ajax, Angular.js, Amazon Aurora, Semantic UI, Node.js, PHPUnit, Selenium and Socket.io
 						</span>
 					</li>
 				</ul>
@@ -350,7 +350,7 @@
 							Skills Used:
 						</span>
 						<span class="list-group-item-text">
-							Laravel, Redis, Bootstrap, HTML, Javascript , Ajax, Angular.js, MySQL, Semantic UI, Node.js, PHPUnit, Selenium and Socket.io
+							PHP(Laravel), Redis, Bootstrap, HTML, Javascript , Ajax, Angular.js, MySQL, Semantic UI, Node.js, PHPUnit, Selenium and Socket.io
 						</span>
 					</li>
 				</ul>
@@ -374,7 +374,7 @@
 							Skills Used:
 						</span>
 						<span class="list-group-item-text">
-						Laravel, Bootstrap, HTML, Javascript , Ajax, Angular.js, MySQL
+						PHP(Laravel), Bootstrap, HTML, Javascript , Ajax, Angular.js, MySQL
 						</span>
 					</li>
 				</ul>
@@ -398,7 +398,7 @@
 							Skills Used:
 						</span>
 						<span class="list-group-item-text">
-							Laravel, Redis, Bootstrap, HTML, Javascript , Ajax, Angular.js, MySQL, Node.js, Selenium and Socket.io
+							PHP(Laravel), Redis, Bootstrap, HTML, Javascript , Ajax, Angular.js, MySQL, Node.js, Selenium and Socket.io
 						</span>
 					</li>
 				</ul>
@@ -451,7 +451,7 @@
 							Skills Used:
 						</span>
 						<span class="list-group-item-text">
-							PHP, WebRTC , Laravel, Redis, Bootstrap, HTML, Javascript , Ajax, Angular.js, MySQL, Node.js, and Socket.io
+							Node.js, Socket.io, WebRTC, Redis, Bootstrap, HTML, Javascript , Ajax, Angular.js, MySQL, Laravel(PHP) and Meteor.js
 						</span>
 					</li>
 				</ul>
@@ -479,7 +479,7 @@
 							Skills Used:
 						</span>
 						<span class="list-group-item-text">
-							Ionic, Angular JS, HTML, CSS, Cordova, ngCordova, Node JS, Android SDK, iOS SDK
+							Ionic, Angular.js, HTML, CSS, Cordova, ngCordova, Node.js, Android SDK, iOS SDK
 						</span>
 					</li>
 				</ul>
@@ -521,7 +521,7 @@
 							Skills Used:
 						</span>
 						<span class="list-group-item-text">
-							Symfony 2 MVC, XML,Knockout.js, JavaScript, HTML, Durandal.JS and Breeze.js
+							PHP(Symfony 2 MVC), XML,Knockout.js, JavaScript, HTML, Durandal.JS and Breeze.js
 						</span>
 					</li>
 				</ul>
@@ -709,6 +709,7 @@
 	         </div>
 		</div>
          <hr>
+		
 		<div class="row">
 	         <div class="col-md-3">
 	         	<h3>REFERENCES</h3>
@@ -716,7 +717,8 @@
 	         <div class="col-md-9">
 	         	<p>Available upon Request</p>
 	         </div>
-		</div>	
+		</div>
+		
 		<hr>
     </div>
 </body>
