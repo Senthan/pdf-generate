@@ -119,7 +119,7 @@
 					</li>
 					<li class="list-group-item-heading">
 						Experience in working with Model View Controller (MVC) architecture based web developments using
-		                Laravel MVC.
+		                Laravel MVC and CGI Script.
 					</li>
 					<li class="list-group-item-heading">
 						Proficient in working with Eloquent ORM Laravel and Composer and Application Servers such as Nginx, Apache and HTTP server in Node.js.
@@ -325,7 +325,7 @@
 							Skills Used:
 						</span>
 						<span class="list-group-item-text">
-							PHP(Laravel), Redis, Bootstrap, HTML, Javascript , Ajax, Angular.js, Amazon Aurora, Semantic UI, Node.js, PHPUnit, Selenium and Socket.io
+							PHP(Laravel), Redis, Bootstrap, HTML, Javascript , Ajax, Angular.js, Amazon Aurora, Semantic UI, Node.js, PHPUnit, Selenium, Socket.io and CGI Script(Bash) 
 						</span>
 					</li>
 				</ul>
@@ -342,7 +342,7 @@
 							Role Played:
 						</span>
 						<span class="list-group-item-text">
-							Developer, Designer, Tester, Requirement Analyzer and Scrum Master, Customer Support and Production Maintenance
+							Developer, Designer, and Tester, Requirement Analyzer, Customer Support and Production Maintenance
 						</span>
 					</li>
 					<li>
@@ -350,7 +350,7 @@
 							Skills Used:
 						</span>
 						<span class="list-group-item-text">
-							PHP(Laravel), Redis, Bootstrap, HTML, Javascript , Ajax, Angular.js, MySQL, Semantic UI, Node.js, PHPUnit, Selenium and Socket.io
+							Node.js, Bootstrap, HTML, Javascript, Ajax, Meteor.js, Angular.js, MySQL, Semantic UI, Mocha, Selenium and CGI Script(Bash) 
 						</span>
 					</li>
 				</ul>
@@ -398,7 +398,7 @@
 							Skills Used:
 						</span>
 						<span class="list-group-item-text">
-							PHP(Laravel), Redis, Bootstrap, HTML, Javascript , Ajax, Angular.js, MySQL, Node.js, Selenium and Socket.io
+							PHP(Laravel), Redis, Bootstrap, HTML, Javascript , Ajax, Angular.js, MySQL, Node.js, Selenium, Socket.io and CGI Script(Perl, Bash) 
 						</span>
 					</li>
 				</ul>
@@ -715,7 +715,14 @@
 	         	<h3>REFERENCES</h3>
 	         </div>
 	         <div class="col-md-9">
-	         	<p>Available upon Request</p>
+		         <ul class="list-group" style="list-style: none"> 
+		         		<li class="list-group-item-heading" style="list-style: none">
+		         			<strong>Name:</strong> Loy Chee Hoon
+		         		</li>
+		         		<li class="list-group-item-heading" style="list-style: none">
+		         			<strong>Email:</strong> vincentloy@ncs.com.sg
+		         		</li>
+		         	</ul>
 	         </div>
 		</div>
 		
