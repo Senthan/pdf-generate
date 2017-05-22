@@ -75,14 +75,14 @@
         <div class="row" >
             <div class="col-md-8">
                <img style="margin-right: 15px;width: 150px;height: 163px;" class="img-thumbnail pull-left" src="http://senthan.dev/app/storage/140x140.png" alt="">
-                <h1 style="padding: : 15px;padding-top: 16px;"> 
+                <h1 style="padding: : 15px;"> 
                     <span>Senthan Shanmugaratnam</span><br>
-                    <!-- <span><small>Software Engineer</small></span> -->
+                    <span><small>Software Engineer</small></span>
                 </h1>
             </div>
             <div class="col-md-4">
 <p class="last">
-	             <span class="hidden-tablet"><strong>Address: </strong> BLK 439, #20-1321, ANG MO KIO AVENUE 10, SINGAPORE 560439.</span>
+	             <span class="hidden-tablet"><strong>Address: </strong> Blk 202, #12-85, Yishun Street 21, Singapore 760202.</span>
 	            <br><span class="hidden-tablet"><strong>Email: </strong> <a>senthaneng@gmail.com</a></span>
 	            <br><span class="hidden-tablet"><strong>Web: </strong> <a>http://senthaneng.com</a></span>
 	            <br><span class="hidden-tablet"><strong>Phone: </strong>(+65) 8385 8656.</span>
@@ -119,7 +119,7 @@
 					</li>
 					<li class="list-group-item-heading">
 						Experience in working with Model View Controller (MVC) architecture based web developments using
-		                Laravel MVC and CGI Script.
+		                Laravel MVC and JavaScript Frameworks.
 					</li>
 					<li class="list-group-item-heading">
 						Proficient in working with Eloquent ORM Laravel and Composer and Application Servers such as Nginx, Apache and HTTP server in Node.js.
@@ -156,7 +156,7 @@
 						<strong>Web Technologies:</strong>
 					</span>
 					<span class="list-group-item-text">
-						Bootstrap, Semantic UI, HTML, CSS, JavaScript, jQuery, Ajax, XML, DOM, JSON, Angularjs, Node.js, Socket.IO, Emojione, CKEditor.js, FullCalendar.js, Dropzone.js, Sortable.js, Clipboard.js, Lightgallery.js, Lightbox.js, colResizable.js, Chart.js and Moment.js
+						Bootstrap, Semantic UI, HTML, CSS, JavaScript, jQuery, Ajax, XML, DOM, JSON, Angularjs, Node.js, Socket.IO, Emojione, CKEditor.js, FullCalendar.js, Dropzone.js, Sortable.js, Clipboard.js, Lightgallery.js, Lightbox.js, colResizable.js, Chart.js Moment.js and Meteor.js
 					</span>
 				</li>
 				<li class="">
@@ -317,7 +317,7 @@
 							Role Played:
 						</span>
 						<span class="list-group-item-text">
-							Developer, Designer, Tester, Requirement Analyzer and Scrum Master, Customer Support and Production Maintenance
+							Developer, Designer, Tester, Requirement Analyzer, Customer Support and Production Maintenance
 						</span>
 					</li>
 					<li>
@@ -350,7 +350,7 @@
 							Skills Used:
 						</span>
 						<span class="list-group-item-text">
-							Node.js, Bootstrap, HTML, Javascript, Ajax, Meteor.js, Angular.js, MySQL, Semantic UI, Mocha, Selenium and CGI Script(Bash) 
+							PHP(Laravel), Bootstrap, HTML, Javascript, Ajax, Angular.js, MySQL, Semantic UI, Selenium and CGI Script(Bash) 
 						</span>
 					</li>
 				</ul>
@@ -426,13 +426,13 @@
 					Developed the activities and closely worked with design team to come up with a UI design
 					</li>
 					<li class="list-group-item-heading">
-					Developed the video chat, message management using webrtc node.js, websocket and socket.io
+					Developed the video stream management using webrtc and node.js
 					</li>
 				</ul>
 
 				<h4 class="cv-item">PDMS</h4>
 				<p>
-					Aim of this project was to managing patients history and diagnosis on Routine Surgery, and notify the alert to doctors.
+					Aim of this project was to managing patients history and diagnosis on Routine Surgery, notify the alert to doctors and online medical consultation with doctor.
 					The Patient Data Management System (PDMS) is a comprehensive software system in which all the data of patients can
 					be integrated. The system is primarily intended for use in complex Care- Intensive / High Care point or Medium Care
 					patients.
@@ -451,7 +451,7 @@
 							Skills Used:
 						</span>
 						<span class="list-group-item-text">
-							Node.js, Socket.io, WebRTC, Redis, Bootstrap, HTML, Javascript , Ajax, Angular.js, MySQL, Laravel(PHP) and Meteor.js
+							Node.js, WebRTC, Bootstrap, HTML, Javascript, Ajax, Angular.js, MySQL and Mocha
 						</span>
 					</li>
 				</ul>
@@ -715,14 +715,7 @@
 	         	<h3>REFERENCES</h3>
 	         </div>
 	         <div class="col-md-9">
-		         <ul class="list-group" style="list-style: none"> 
-		         		<li class="list-group-item-heading" style="list-style: none">
-		         			<strong>Name:</strong> Loy Chee Hoon
-		         		</li>
-		         		<li class="list-group-item-heading" style="list-style: none">
-		         			<strong>Email:</strong> vincentloy@ncs.com.sg
-		         		</li>
-		         	</ul>
+		         <p>Available upon Request</p>
 	         </div>
 		</div>
 		
