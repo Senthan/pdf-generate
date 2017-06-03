@@ -244,7 +244,7 @@
 						<strong>Methodologies:</strong>
 					</span>
 					<span class="list-group-item-text">
-						UML, OOP, OOAD, DDD, Functional Programming, Image Processing, Socket Programming, Parallel programming (Multithreading), Waterfall and Agile Scrum Methodology
+						UML, OOP, OOAD, Functional Programming, Image Processing, Socket Programming, Parallel programming (Multithreading), Waterfall and Agile Scrum Methodology
 					</span>
 				</li>
 				<li class="">
@@ -317,7 +317,7 @@
 							Role Played:
 						</span>
 						<span class="list-group-item-text">
-							Developer, Designer, Tester, Requirement Analyzer, Customer Support and Production Maintenance
+							Developer, Customer Support and Production Maintenance
 						</span>
 					</li>
 					<li>
@@ -325,7 +325,7 @@
 							Skills Used:
 						</span>
 						<span class="list-group-item-text">
-							PHP(Laravel), Redis, Bootstrap, HTML, Javascript , Ajax, Angular.js, Amazon Aurora, Semantic UI, Node.js, PHPUnit, Selenium, Socket.io and CGI Script(Bash) 
+							PHP(Laravel), Redis, Bootstrap, HTML, Javascript , Ajax, Angular.js, Amazon Aurora, Semantic UI, Node.js, PHPUnit, Selenium, Socket.io and Bash
 						</span>
 					</li>
 				</ul>
@@ -342,7 +342,7 @@
 							Role Played:
 						</span>
 						<span class="list-group-item-text">
-							Developer, Designer, and Tester, Requirement Analyzer, Customer Support and Production Maintenance
+							Developer, Customer Support and Production Maintenance
 						</span>
 					</li>
 					<li>
@@ -350,7 +350,7 @@
 							Skills Used:
 						</span>
 						<span class="list-group-item-text">
-							PHP(Laravel), Bootstrap, HTML, Javascript, Ajax, Angular.js, MySQL, Semantic UI, Selenium and CGI Script(Bash) 
+							PHP(Laravel), Bootstrap, HTML, Javascript, Ajax, Angular.js, MySQL, Semantic UI, Selenium and Bash 
 						</span>
 					</li>
 				</ul>
@@ -366,7 +366,7 @@
 							Role Played:
 						</span>
 						<span class="list-group-item-text">
-							Developer, Designer, Tester, Requirement Analyzer and Scrum Master, Customer Support and Production Maintenance
+							Developer, Tester, Customer Support and Production Maintenance
 						</span>
 					</li>
 					<li>
@@ -374,7 +374,7 @@
 							Skills Used:
 						</span>
 						<span class="list-group-item-text">
-						PHP(Laravel), Bootstrap, HTML, Javascript , Ajax, Angular.js, MySQL
+						PHP(Laravel), Bootstrap, HTML, Javascript, Ajax, Angular.js and MySQL
 						</span>
 					</li>
 				</ul>
@@ -390,7 +390,7 @@
 							Role Played:
 						</span>
 						<span class="list-group-item-text">
-							Developer, Designer, Tester, Requirement Analyzer and Scrum Master, Customer Support and Production Maintenance
+							Developer, Tester, Requirement Analyzer, Customer Support and Production Maintenance
 						</span>
 					</li>
 					<li>
@@ -398,7 +398,7 @@
 							Skills Used:
 						</span>
 						<span class="list-group-item-text">
-							PHP(Laravel), Redis, Bootstrap, HTML, Javascript , Ajax, Angular.js, MySQL, Node.js, Selenium, Socket.io and CGI Script(Perl, Bash) 
+							PHP(Laravel), Redis, Bootstrap, HTML, Javascript , Ajax, Angular.js, MySQL, Node.js, Selenium, Socket.io, Perl and Bash 
 						</span>
 					</li>
 				</ul>
@@ -430,6 +430,13 @@
 					</li>
 				</ul>
 
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
 				<h4 class="cv-item">PDMS</h4>
 				<p>
 					Aim of this project was to managing patients history and diagnosis on Routine Surgery, notify the alert to doctors and online medical consultation with doctor.
@@ -443,7 +450,7 @@
 							Role Played:
 						</span>
 						<span class="list-group-item-text">
-							Developer, Designer, Tester
+							Developer, Designer and Tester
 						</span>
 					</li>
 					<li>
@@ -455,8 +462,6 @@
 						</span>
 					</li>
 				</ul>
-
-
 
 
 				<h4 class="cv-item">PDMS Mobile R&D</h4>
@@ -471,7 +476,7 @@
 							Role Played:
 						</span>
 						<span class="list-group-item-text">
-							Developer, Designer, Tester, Requirement Analyzer and Scrum Master
+							Developer, Tester
 						</span>
 					</li>
 					<li>
@@ -479,7 +484,7 @@
 							Skills Used:
 						</span>
 						<span class="list-group-item-text">
-							Ionic, Angular.js, HTML, CSS, Cordova, ngCordova, Node.js, Android SDK, iOS SDK
+							Ionic, Angular.js, HTML, CSS, Cordova, ngCordova, Node.js, Android SDK and iOS SDK
 						</span>
 					</li>
 				</ul>
@@ -521,7 +526,7 @@
 							Skills Used:
 						</span>
 						<span class="list-group-item-text">
-							PHP(Symfony 2 MVC), XML,Knockout.js, JavaScript, HTML, Durandal.JS and Breeze.js
+							PHP(Symfony 2 MVC), XML, Knockout.js, JavaScript, HTML, Durandal.JS and Breeze.js
 						</span>
 					</li>
 				</ul>
@@ -574,7 +579,7 @@
 	        					Role Played:
 	        				</span>
 	        				<span class="list-group-item-text">
-								Analyzer, Architect, Designer, Developer, and Tester
+								Analyzer, Architect, Designer, Developer and Tester
 	        				</span>
 	        			</li>
 	        			<li>
@@ -591,7 +596,7 @@
 	         		Taxi Dispatch Services – Course project
 	         	    </h4>
 	         	<p>
-	         		This system was developed in Matlab and In System that can detect the face and identify the face
+	         		This system was developed in PHP and In system that book the taxi services
 	         	</p>
 
 	         	<ul class="list-group">
@@ -600,7 +605,7 @@
 	        					Role Played:
 	        				</span>
 	        				<span class="list-group-item-text">
-								Idea, Analyzer, Architect, Designer, Developer, and Tester
+								Idea, Analyzer, Architect, Designer, Developer and Tester
 	        				</span>
 	        			</li>
 	        			<li>
